@@ -1,7 +1,9 @@
 #  Olá! Eu sou o Renato Goulart 🖐.
 
 👨‍🏭 Atualmente trabalho como T.I e Analista de dados.\
+📘 Sou graduado em Banco de Dados Pela Faculdade Impacta de Tecnologia
 📘 Estou estudando SQL Server 2019
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatomgoulart&show_icons=true&theme=radical)
