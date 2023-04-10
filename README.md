@@ -1,8 +1,8 @@
 #  Olá! Eu sou o Renato Goulart 🖐.
 
 👨‍🏭 Atualmente trabalho como T.I e Analista de dados.\
-📘 Sou graduado em Banco de Dados Pela Faculdade Impacta de Tecnologia
-📘 Estou estudando SQL Server 2019
+📘 Sou graduado em Banco de Dados Pela Faculdade Impacta de Tecnologia.\
+📘 Estou estudando SQL Server 2019.
 
 
 
